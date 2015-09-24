@@ -7,6 +7,7 @@ https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-moc
 
 **Usage**
 
+Install:
 ````
 git clone https://github.com/davidmna/converter.git
 cd converter
